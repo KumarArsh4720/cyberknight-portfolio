@@ -4,7 +4,7 @@ const heroAnimation = lottie.loadAnimation({
   renderer: 'svg',
   loop: true,
   autoplay: true,
-  path: '/coding.json'
+  path: 'coding.json'
 });
 
 const aboutAnimation = lottie.loadAnimation({
@@ -12,7 +12,7 @@ const aboutAnimation = lottie.loadAnimation({
   renderer: 'svg',
   loop: true,
   autoplay: true,
-  path: '/traveler.json'
+  path: 'traveler.json'
 });
 
 // Typed.js Animation
